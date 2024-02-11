@@ -1,0 +1,113 @@
+cwz.weishao2023.dk.eu.org
+wz.weishao2023.uk.eu.org
+www.visa.com
+www.wto.org
+time.is
+www.who.int
+cdn.anycast.eu.org
+
+CF https端口：2053，2083，2087，2096，8443，443 
+CF http端口：2052，2082，2086，2095，80，8080，8880
+
+
+hk.cloudflarest.link
+jp.cloudflarest.link
+
+
+1.hrf1105.cloudns.biz/aeca3d70-5c4f-4497-b550-44950e01f162
+2.hxp666.cloudns.org/2834c302-bbaf-4a7d-b94d-031c1555e30d
+
+hrf1105.2444640783.workers.dev/aeca3d70-5c4f-4497-b550-44950e01f162
+hxp666.2444640783.workers.dev/2834c302-bbaf-4a7d-b94d-031c1555e30d
+
+
+
+Cloudns官网   https://www.cloudns.net
+
+
+出现不安全链接的请改成
+let proxyIP = 'cdn-all.xn--b6gac.eu.org';
+“cdn-all.xn--b6gac.eu.org”、“cdn.xn--b6gac.eu.org”、“cdn-b100.xn--b6gac.eu.org”、“edgetunnel.anycast.eu”。 org', 'cdn.anycast.eu.org'
+项目地址           
+
+
+
+
+
+
+
+
+https://github.com/zizifn/edgetunnel
+
+v2rayN 最新windows版本    https://github.com/2dust/v2rayN/releases
+
+v2rayNG安卓端        https://github.com/2dust/v2rayNG/releases
+
+cloudflare官网     https://dash.cloudflare.com/
+
+cloudflare优选IP   https://stock.hostmonit.com/CloudFlareYes
+
+
+
+CF优选域名
+
+cdn.anycast.eu.org
+wz.weishao2023.dk.eu.org
+wz.weishao2023.uk.eu.org
+www.visa.com
+
+
+
+CF https端口：2053，2083，2087，2096，8443，443 
+ CF http端口：2052，2082，2086，2095，80，8080，8880
+
+
+hxp666链接
+ vless://2834c302-bbaf-4a7d-b94d-031c1555e30d@2.hxp666.cloudns.org:443?加密=none&security=tls&sni=2.hxp666.cloudns.org&fp=randomized&type=ws&host=2.hxp666.cloudns.org&path= %2F%3Fed%3D2048#2.hxp666.cloudns.org
+
+
+hrf1105链接
+vless://aeca3d70-5c4f-4497-b550-44950e01f162@1.hrf1105.cloudns.biz:443?加密=无&安全=tls&sni=1.hrf1105.cloudns.biz&fp=随机&类型=ws&主机=1.hrf1105.cloudns.biz&路径= %2F%3Fed%3D2048#1.hrf1105.cloudns.biz
+
+
+nekobox
+hysteria://173.234.25.52:20164?upmbps=11&downmbps=55&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&peer=www.microsoft.com&alpn=h3
+
+hysteria://51.158.54.46:11926?upmbps=11&downmbps=55&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3
+
+hysteria://167.160.91.115:41189?upmbps=11&downmbps=55&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3
+
+hysteria://108.181.22.239:39967?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+
+hy2://dongtaiwang.com@108.181.22.155:27710?insecure=1&sni=www.bing.com
+
+hy2://dongtaiwang.com@www.dtku46.xyz:55307?insecure=1&sni=www.bing.com
+
+hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&sni=www.bing.com
+
+vless://ffb15cd2-0521-49de-b8aa-fb15d58c8075@dongtaiwang3.com:443?security=tls&sni=v2ray3.freegradely.xyz&fp=chrome&type=ws&path=/bqbows&host=v2ray3.freegradely.xyz
+
+vless://0773256c-d020-436d-afea-6eee7cb6c872@cloudflare.cfgo.cc:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+
+vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@dongtaiwang3.com:443?security=tls&sni=xray1.freeh1.xyz&fp=undefined&type=ws&path=/gzogws&host=xray1.freeh1.xyz
+
+hysteria://108.181.22.213:33450?upmbps=1000&downmbps=1000&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+
+vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@dongtaiwang2.com:443?security=tls&sni=xray1.freeh1.xyz&fp=undefined&type=ws&path=/gzogws&host=xray1.freeh1.xyz
+
+vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang3.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+
+hysteria://www.dtku50.xyz:28877?upmbps=50&downmbps=100&auth=y6Sf5xTFyNx5&insecure=1&peer=www.dtku50.xyz&alpn=h3
+
+
+ChromeGo/EdgeGo一键翻墙包自动提取节点
+wokers地址(：https://chromego.amazinglinyy.workers.dev/
+代码地址：https://github.com/shiteThings/extractNodes/blob/main/ext.js
+
+worker订阅链接：https://chromegolatest.amazinglinyy.workers.dev/
+自定义域订阅链接：https://chromenodes.marcol.top/
+
+
+
+
+
